@@ -1,4 +1,4 @@
-package com.polozov.cloudstorage.lesson01;
+package com.cloudstorage.lesson01;
 
 import java.io.*;
 import java.net.Socket;

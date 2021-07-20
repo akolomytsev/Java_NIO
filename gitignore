@@ -1,0 +1,25 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+.idea/
+*.iml
+*.iws
+*.class
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
+.gitignore
